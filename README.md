@@ -1,1 +1,1 @@
-# Competition__Development_of_Document_Summary_Model_for_Gas_Energy
+# Competition__Summary_Model_Development_for_Gas_Energy
