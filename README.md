@@ -1,5 +1,8 @@
 # Competition__Gas_Energy_Document_Summary_Model
 
+## 추후 업로드 파일 
+- 아래의 설명에서 언급되지 않은 파일은 파일의 크기 때문에 추후 업로드 예정
+
 ## 파일설명
 - submisson.py : 요약문 생성하여 submisson 파일 생성
 - dataset.py : ai hub 문서요약 데이터셋 .tsv로 변환
